@@ -1,0 +1,16 @@
+C:\Users\Tembo\Desktop\MusicPlayerApplication\bin\Debug\MusicPlayerApplication.exe.config
+C:\Users\Tembo\Desktop\MusicPlayerApplication\bin\Debug\MusicPlayerApplication.exe
+C:\Users\Tembo\Desktop\MusicPlayerApplication\bin\Debug\MusicPlayerApplication.pdb
+C:\Users\Tembo\Desktop\MusicPlayerApplication\bin\Debug\Interop.WMPLib.dll
+C:\Users\Tembo\Desktop\MusicPlayerApplication\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Tembo\Desktop\MusicPlayerApplication\obj\Debug\MusicPlayerApplication.csproj.AssemblyReference.cache
+C:\Users\Tembo\Desktop\MusicPlayerApplication\obj\Debug\MusicPlayerApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tembo\Desktop\MusicPlayerApplication\obj\Debug\Interop.WMPLib.dll
+C:\Users\Tembo\Desktop\MusicPlayerApplication\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Tembo\Desktop\MusicPlayerApplication\obj\Debug\MusicPlayerApplication.csproj.ResolveComReference.cache
+C:\Users\Tembo\Desktop\MusicPlayerApplication\obj\Debug\MusicPlayerApplication.MusicPlayer.resources
+C:\Users\Tembo\Desktop\MusicPlayerApplication\obj\Debug\MusicPlayerApplication.Properties.Resources.resources
+C:\Users\Tembo\Desktop\MusicPlayerApplication\obj\Debug\MusicPlayerApplication.csproj.GenerateResource.cache
+C:\Users\Tembo\Desktop\MusicPlayerApplication\obj\Debug\MusicPlayerApplication.csproj.CoreCompileInputs.cache
+C:\Users\Tembo\Desktop\MusicPlayerApplication\obj\Debug\MusicPlayerApplication.exe
+C:\Users\Tembo\Desktop\MusicPlayerApplication\obj\Debug\MusicPlayerApplication.pdb
